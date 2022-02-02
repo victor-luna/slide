@@ -28,10 +28,10 @@ img {
   margin: 0 20px;
 }
 
-.slide {
+/* .slide {
   transform: translate3d(
     -500px,
     0px,
     0px
   ); /* mais performático que o translate normal, pois o translate3d usa a placa gráfica */
-}
+/* } */
